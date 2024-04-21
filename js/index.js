@@ -1,1 +1,0 @@
-new ProductList(new Cart());
