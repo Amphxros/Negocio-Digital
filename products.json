@@ -1,0 +1,211 @@
+[
+    {
+        "id": "1",
+        "title": "Resina 5x5x5 cm",
+        "image": "img/products/baby-yoda.svg",
+        "additionalImages": [
+            "https://placekitten.com/200/139",
+            "https://placekitten.com/200/139?2"
+        ],
+        "description": "Perfecto para miniaturas para rol",
+        "price": 49.99
+    },
+    {
+        "id": "2",
+        "title":  "Resina 10x10x10 cm",
+        "image": "img/products/banana.svg",
+        "additionalImages": [
+            "https://placekitten.com/200/139",
+            "https://placekitten.com/200/139?2"
+        ],
+        "description": "Resina recomendada para figuras decorativas con muchos detalles",
+        "price": 19.99
+    },
+    {
+        "id": "3",
+        "title": "Resina 20x20x20 cm",
+        "image": "img/products/girl.svg",
+        "additionalImages": [
+            "https://placekitten.com/201/139",
+            "https://placekitten.com/201/139?2"
+        ],
+        "description": "Encargo perfecto para ocasiones especiales",
+        "price": 24.99
+    },
+    {
+        "id": "4",
+        "title": "PLA 5x5x5 cm",
+        "image": "img/products/viking.svg",
+        "additionalImages": [
+            "https://placekitten.com/203/139",
+            "https://placekitten.com/204/139?2"
+        ],
+        "description": "Viking sticker",
+        "price": 34.99
+    },
+    
+    {
+        "id": "5",
+        "title": "PLA 10x10x10 cm",
+        "image": "img/products/viking.svg",
+        "additionalImages": [
+            "https://placekitten.com/203/139",
+            "https://placekitten.com/204/139?2"
+        ],
+        "description": "Viking sticker",
+        "price": 34.99
+    },
+    
+    {
+        "id": "6",
+        "title": "PLA 20x20x20 cm",
+        "image": "img/products/viking.svg",
+        "additionalImages": [
+            "https://placekitten.com/203/139",
+            "https://placekitten.com/204/139?2"
+        ],
+        "description": "Viking sticker",
+        "price": 34.99
+    },
+    {
+        "id": "7",
+        "title": "PETG 5x5x5 cm",
+        "image": "img/products/viking.svg",
+        "additionalImages": [
+            "https://placekitten.com/203/139",
+            "https://placekitten.com/204/139?2"
+        ],
+        "description": "Viking sticker",
+        "price": 34.99
+    },
+    
+    {
+        "id": "8",
+        "title": "PETG 10x10x10 cm",
+        "image": "img/products/viking.svg",
+        "additionalImages": [
+            "https://placekitten.com/203/139",
+            "https://placekitten.com/204/139?2"
+        ],
+        "description": "Viking sticker",
+        "price": 34.99
+    },
+    
+    {
+        "id": "9",
+        "title": "PETG 20x20x20 cm",
+        "image": "img/products/viking.svg",
+        "additionalImages": [
+            "https://placekitten.com/203/139",
+            "https://placekitten.com/204/139?2"
+        ],
+        "description": "Viking sticker",
+        "price": 34.99
+    },
+    {
+        "id": "10",
+        "title": "Cerámica 5x5x5 cm",
+        "image": "img/products/viking.svg",
+        "additionalImages": [
+            "https://placekitten.com/203/139",
+            "https://placekitten.com/204/139?2"
+        ],
+        "description": "Viking sticker",
+        "price": 34.99
+    },
+    
+    {
+        "id": "11",
+        "title": "Cerámica 10x10x10 cm",
+        "image": "img/products/viking.svg",
+        "additionalImages": [
+            "https://placekitten.com/203/139",
+            "https://placekitten.com/204/139?2"
+        ],
+        "description": "Viking sticker",
+        "price": 34.99
+    },
+    
+    {
+        "id": "12",
+        "title": "Cerámica 20x20x20 cm",
+        "image": "img/products/viking.svg",
+        "additionalImages": [
+            "https://placekitten.com/203/139",
+            "https://placekitten.com/204/139?2"
+        ],
+        "description": "Viking sticker",
+        "price": 34.99
+    },
+    {
+        "id": "13",
+        "title": "Nylon 5x5x5 cm",
+        "image": "img/products/viking.svg",
+        "additionalImages": [
+            "https://placekitten.com/203/139",
+            "https://placekitten.com/204/139?2"
+        ],
+        "description": "Viking sticker",
+        "price": 34.99
+    },
+    
+    {
+        "id": "14",
+        "title": "Nylon 10x10x10 cm",
+        "image": "img/products/viking.svg",
+        "additionalImages": [
+            "https://placekitten.com/203/139",
+            "https://placekitten.com/204/139?2"
+        ],
+        "description": "Viking sticker",
+        "price": 34.99
+    },
+    
+    {
+        "id": "15",
+        "title": "Nylon 20x20x20 cm",
+        "image": "img/products/viking.svg",
+        "additionalImages": [
+            "https://placekitten.com/203/139",
+            "https://placekitten.com/204/139?2"
+        ],
+        "description": "Viking sticker",
+        "price": 34.99
+    },
+    {
+        "id": "16",
+        "title": "Madera 5x5x5 cm",
+        "image": "img/products/viking.svg",
+        "additionalImages": [
+            "https://placekitten.com/203/139",
+            "https://placekitten.com/204/139?2"
+        ],
+        "description": "Viking sticker",
+        "price": 34.99
+    },
+    
+    {
+        "id": "17",
+        "title": "Madera 10x10x10 cm",
+        "image": "img/products/viking.svg",
+        "additionalImages": [
+            "https://placekitten.com/203/139",
+            "https://placekitten.com/204/139?2"
+        ],
+        "description": "Viking sticker",
+        "price": 34.99
+    },
+    
+    {
+        "id": "18",
+        "title": "Madera 20x20x20 cm",
+        "image": "img/products/viking.svg",
+        "additionalImages": [
+            "https://placekitten.com/203/139",
+            "https://placekitten.com/204/139?2"
+        ],
+        "description": "Viking sticker",
+        "price": 34.99
+    }
+    
+]
