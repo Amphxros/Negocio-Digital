@@ -2,12 +2,16 @@
     {
         "id": "1",
         "title": "Bienvenidos",
-        "image": "img/products/baby-yoda.svg",
-        "additionalImages": [
-            "https://placekitten.com/200/139",
-            "https://placekitten.com/200/139?2"
-        ],
+        "image": "img/blog/1.png",
         "description": "Hola a todos",
-        "price": 49.99
+        "content": "meow meow"
+    },
+    {
+        "id": "2",
+        "title": "Proximas convenciones 2024",
+        "image": "img/blog/1.png",
+        "description": "Hola a todos",
+        "content": "meow meow"
     }
+    
 ]
