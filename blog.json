@@ -1,0 +1,13 @@
+[
+    {
+        "id": "1",
+        "title": "Bienvenidos",
+        "image": "img/products/baby-yoda.svg",
+        "additionalImages": [
+            "https://placekitten.com/200/139",
+            "https://placekitten.com/200/139?2"
+        ],
+        "description": "Hola a todos",
+        "price": 49.99
+    }
+]
