@@ -35,7 +35,7 @@ class ProductList {
                           data-bs-target="#productInfoModal" data-id="${product.id}">Info
                         </button>
                         <button class="btn btn-primary buy" data-id="${product.id}">
-                          $${product.price} - Buy
+                          ${product.price} € - Comprar
                         </button>
                       </div>
                     </div>

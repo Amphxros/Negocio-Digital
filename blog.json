@@ -4,14 +4,14 @@
         "title": "Bienvenidos",
         "image": "img/blog/1.png",
         "description": "Hola a todos",
-        "content": "meow meow"
+        "content": "Os damos la bien"
     },
     {
         "id": "2",
-        "title": "Proximas convenciones 2024",
+        "title": "Nuevos modelos Abril 2024",
         "image": "img/blog/1.png",
-        "description": "Hola a todos",
-        "content": "meow meow"
+        "description": "Tenemos nuevas plantillas para imprimir",
+        "content": "Como novedad de este mes tenemos: \n · Fidgets con forma de babosa, en multiples colores de filamento PLA \n · Mascara japonesa estilo Oni de resina "
     }
     
 ]
